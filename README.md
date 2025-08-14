@@ -6,3 +6,4 @@ The objective of this project is to convert text into natural-sounding speech us
 - Creating an S3 Bucket
 - Writing Lambda function code
 - Checking the output of Amazon Polly
+![Architecture Diagram of text to narrator](text_tospeech/text_to_speech_diagram.png)
